@@ -6,4 +6,10 @@
 
 ### Github penit
 
+.s
+.s
+.f
+
+
+
 

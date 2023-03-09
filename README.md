@@ -2,5 +2,4 @@
 
 ## Hi there 👋
 
-![GitHub stats]()
 <img src="path/to/image.png" alt="Alt text" align="right">

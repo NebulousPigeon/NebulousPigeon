@@ -14,7 +14,7 @@
 
 ###  
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dxxxxy&theme=tokyonight&langs_count=12" alt="Alt text" align="left">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dxxxxy&theme=tokyonight&langs_count=12&card_width=3" alt="Alt text" align="left">
 
 ## Languages
 

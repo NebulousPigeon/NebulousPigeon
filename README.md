@@ -22,11 +22,3 @@
 <code><img height="50" alt="python" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"></code>
 <code><img height="50" alt="python" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"></code>
  
-
-<img src="https://github-readme-stats.vercel.app/api?username=NebulousPigeon&theme=tokyonight&show_icons=true" alt="Alt text" align="right" width="50%">
-
-## Adopt me
-
--  a
--  sad
--  asdww

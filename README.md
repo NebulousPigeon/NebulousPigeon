@@ -10,14 +10,27 @@
 -  Made scam bot for an ice cream :skull:
 -  CiganHack dev
 
+<br>
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dxxxxy&theme=tokyonight&langs_count=8&layout=compact" alt="Alt text" align="left" width="40%">
 
 ## Languages
  
 <code><img height="50" alt="python" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"></code>
 <code><img height="50" alt="java" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"></code>
-<code><img height="50" alt="python" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"></code>
-<code><img height="50" alt="python" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/JSON_vector_logo.svg/2048px-JSON_vector_logo.svg.png"></code>
-<code><img height="50" alt="python" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"></code>
-<code><img height="50" alt="python" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"></code>
+<code><img height="50" alt="js" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"></code>
+<code><img height="50" alt="json" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/JSON_vector_logo.svg/2048px-JSON_vector_logo.svg.png"></code>
+<code><img height="50" alt="css3" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"></code>
+<code><img height="50" alt="html5" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"></code>            
  
+ <br><br><br><br><br><br>
+<img src="https://github-readme-stats.vercel.app/api?username=NebulousPigeon&theme=tokyonight&show_icons=true" alt="Alt text" align="right" width="50%">
+
+## About me
+
+<code><img height="50" alt="python" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"></code>
+<code><img height="50" alt="java" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"></code>
+<code><img height="50" alt="js" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"></code>
+<code><img height="50" alt="json" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/JSON_vector_logo.svg/2048px-JSON_vector_logo.svg.png"></code>
+<code><img height="50" alt="css3" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"></code>
+<code><img height="50" alt="html5" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"></code>

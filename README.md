@@ -23,7 +23,7 @@
 <code><img height="50" alt="css3" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"></code>
 <code><img height="50" alt="html5" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"></code>            
  
- <br><br><br><br><br><br>
+ <br><br><br><br><br>
 <img src="https://github-readme-stats.vercel.app/api?username=NebulousPigeon&theme=tokyonight&show_icons=true" alt="Alt text" align="right" width="50%">
 
 ## About me
